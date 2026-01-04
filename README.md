@@ -1,16 +1,29 @@
-## Hi there 👋
+## DevOps Engineer | Building Production Infrastructure
 
-<!--
-**zin39/zin39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I design and operate production infrastructure for web applications.
 
-Here are some ideas to get you started:
+  ### What I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Self-hosted DevOps platform running in production:
+
+  - **CI/CD Pipeline** - GitLab → Jenkins → Harbor → ArgoCD
+  - **Kubernetes** - K3s cluster (3 nodes) running 12+ services
+  - **GitOps** - ArgoCD for automated, auditable deployments
+  - **Monitoring** - Prometheus + Grafana + Loki + Alertmanager
+  - **Secrets** - HashiCorp Vault with Kubernetes integration
+  - **Storage** - Ceph distributed storage cluster
+
+  ### Tech Stack
+
+  `Kubernetes` `Docker` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `Vault` `GitLab` `Harbor` `HAProxy` `AWS EC2` `Linux`
+
+  ### Currently
+
+  - Deepening my Kubernetes and infrastructure knowledge
+  - Looking for remote DevOps opportunities
+  - Open to freelance projects and full-time roles
+
+  ### Connect
+
+  - LinkedIn: [Add your LinkedIn URL]
+  - Location: Nepal (GMT+5:45) | Available for remote work
