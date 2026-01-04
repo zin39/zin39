@@ -25,5 +25,5 @@
 
   ### Connect
 
-  - LinkedIn: [Add your LinkedIn URL]
+  - LinkedIn: [(https://www.linkedin.com/in/karan244-gupta/)]
   - Location: Nepal (GMT+5:45) | Available for remote work
